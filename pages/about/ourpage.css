@@ -1,0 +1,33 @@
+body {
+    background-image: url("nest.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 20px;
+}
+
+.page1 {
+    background-color:#21424c ;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.page{
+	overflow: hidden;
+	text-align: center;
+	background: #34495e;
+	padding: 60px;
+}
+.page h1{
+	text-transform: uppercase;
+	margin-bottom: 60px;
+	color:white;
+	font-style: 40px;
+}
+.border{
+	display: block;
+	margin:auto;
+	width: 160px;
+	height: 3px;
+	background: #3489db;
+	margin-bottom: 40px;

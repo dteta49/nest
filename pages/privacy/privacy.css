@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+body {
+    background-color: #ecf0f1;
+    font-family: 'Lato', 'Arial', sans-serif;
+}
+.content {
+    background-color:#21424c ;
+    font-size: 20px;
+    color: white;
+    margin: 2%;
+    padding: 2%;
+}
+.caption{
+	overflow: hidden;
+	text-align: center;
+	background: #34495e;
+	padding: 60px;
+}
+.caption h1{
+	padding-top: 60px;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+	color:white;
+}
+.border{
+	display: block;
+	margin:auto;
+	width: 160px;
+	height: 3px;
+	background: #3489db;
+	margin-bottom: 40px;
+}
